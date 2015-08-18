@@ -1,0 +1,28 @@
+From cito at online.de  Sat Jan 19 18:59:39 2013
+From: cito at online.de (Christoph Zwerschke)
+Date: Sat, 19 Jan 2013 18:59:39 +0100
+Subject: [Abop-german-dev] A Byte of Python - Update
+Message-ID: <50FADF0B.1000406@online.de>
+
+Jemand hat mich gestern nach einer aktualisierten Version von "A Byte of 
+Python" bzw. zur Weiterarbeit in dem Projekt gefragt.
+
+Nachdem Berlios Ende 2011 doch nicht geschlossen hat, und die Welt Ende 
+2012 auch nicht unterging, habe ich beschlossen, "A Byte of Python" 
+vorerst weiter bei Berlios zu belassen.
+
+Ich habe heute die Homepage unter http://abop-german.berlios.de/ 
+aktualisiert, alle ?ber den Bugtracker gemeldeten Fehler (teils uralt) 
+behoben und die korrigierte Version erneut zum Download bereitgestellt.
+
+Die Versionsnummer ist immer noch 1.20.
+
+Die ?bersetzung auf den aktuellen Stand des englischen Originals in 
+Version 2.0 zu bringen, d?rfte ein gr??eres Unterfangen werden, da das 
+Buch u.a. von Python 2 auf Python 3 und von Docbook auf Pandoc 
+umgestellt wurde. Leider fehlt mir pers?nlich momentan die Zeit und 
+Energie daf?r, aber ich w?rde mich freuen, wenn jemand anderes das in 
+Angriff nehmen und dieses Projekt weiterf?hren w?rde.
+
+-- Christoph Zwerschke
+
